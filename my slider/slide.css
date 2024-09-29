@@ -6,7 +6,7 @@ body,ul,ol,h1,h2,a{
 .slider{
     width: 100%;
     height: var(--height);
-overflow: hidden !important;
+    overflow: hidden !important;
     mask-image: linear-gradient(
         to right,
         transparent,
